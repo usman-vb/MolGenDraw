@@ -22,7 +22,7 @@ Platform: Windows 64-bit (Standalone Executable)
 📂 **Advanced SDF File Management** *(Signature Feature)*  
 - Seamlessly navigate through multi-molecule Structure-Data Files (`.sdf`).  
 - Edit, create, or delete specific SDF tags/properties via a dedicated tag editor.  
-- **SDF Generator**: Merge multiple standalone `.mol` files into a single, organized `.sdf` database file (outshining the limited SDF support in tools like ChemDraw, Ketcher, or MolDraw).  
+- **SDF Generator**: Merge multiple standalone `.mol` files into a single, organized `.sdf` database file (outshining the limited SDF support in tools like ChemDraw, ChemSketch or Ketcher etc).  
 - Options to "Save Current Molecule Only" or delete specific records with confirmation dialogs.  
 
 📊 **Real-Time Molecular Analysis**  
