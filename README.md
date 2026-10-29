@@ -1,6 +1,6 @@
 # MolGenDraw 🧪
 
-**MolGenDraw** is your intuitive 2D molecular editor with **interactive 3D visualization**! Draw, edit, and explore molecular structures with real-time analysis. Featuring ring/structure templates, SMILES support, PubChem integration, and advanced SDF database support—seamlessly merge `.mol` files and edit custom tags. Now with 3D molecular rendering, animation recording, structure OCR, and batch IUPAC-to-SMILES generation. A fast, beautiful, and portable chemistry app designed for researchers, chemists, and students!
+**MolGenDraw** is your intuitive **2D molecular editor** with **interactive 3D visualization**! Draw, edit, and explore molecular structures with real-time analysis. Featuring ring/structure templates, SMILES support, PubChem integration, and advanced SDF database support—seamlessly merge `.mol` files and edit custom tags. Now with 3D molecular rendering, animation recording, structure OCR, and batch IUPAC-to-SMILES generation. A fast, beautiful, and portable chemistry app designed for researchers, chemists, and students!
 
 🆕 **Current Version**  
 Version: 1.176 (Second Official Stable Release)  
