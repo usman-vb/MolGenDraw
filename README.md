@@ -171,8 +171,8 @@ Platform: Windows 64-bit (Standalone Executable)
 MolGenDraw is distributed as a portable, standalone Windows executable. No installation wizard is needed.  
 
 1. Navigate to the **[Releases](https://github.com/usman-vb/MolGenDraw/releases)** section on the right-hand sidebar of this GitHub repository.  
-2. Download the latest ZIP archive (e.g., `MolGenDraw_v1.176.zip`).  
-3. Extract the contents of the ZIP file to any folder on your computer (e.g., `C:\MolGenDraw` or your Desktop).  
+2. Download the latest ZIP archive (e.g., `MolGenDraw-1.176.zip`).  
+3. Extract the contents of the ZIP file to any folder on your computer (e.g., `C:\MolGenDraw-1.176` or your Desktop).  
 4. Double-click **`MolGenDraw.exe`** to launch the application.  
 5. *(Optional)* Right-click the `.exe` file, select **Send to > Desktop (create shortcut)** for easy future access.  
 
