@@ -12,7 +12,7 @@ Platform: Windows 64-bit (Standalone Executable)
 ✨ **Features**
 
 🎨 **Interactive 2D Canvas & Drawing Tools**  
-- Intuitive tools to draw, edit, and manipulate chemical structures directly on the canvas.  
+- Intuitive tools to draw, edit, and manipulate molecular structures directly on the canvas.  
 - Easily add atoms, cycle through bond orders (single, double, triple), and fuse predefined ring templates (Benzene, Cyclohexane, Cyclopentane, etc.).  
 
 🔄 **Advanced Canvas Manipulation & Selection**  
