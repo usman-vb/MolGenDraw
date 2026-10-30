@@ -74,7 +74,7 @@ Platform: Windows 64-bit (Standalone Executable)
 🛡️ **Chemical Validation & Offline Generation**  
 - Continuous validation for correct valence and structural rules.  
 - Dynamic status bar catches and displays RDKit sanitization errors (e.g., explicit valence violations, kekulization failures) in real-time red text.  
-- Offline generation of **IUPAC Name, SMILES, InChI, and InChI Key** directly from the drawn molecule.  
+- Offline generation of **SMILES, InChI, and InChI Key** directly from the drawn molecule while **IUPAC Name** generation need an internet connection.  
 - Parse SMILES to generate 2D structure without internet connection.  
 - Molblock headers are now normalized before RDKit parsing (counts line repositioned to line 4, stray blank lines stripped) — fixing "No valid molecules found" errors on MolGen SDF/MOL files.  
 
